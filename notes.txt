@@ -1,0 +1,8 @@
+pyaudio bug clearing:
+    pip install pipwin
+    pipwin install pyaudio
+
+https://www.geeksforgeeks.org/project-idea-voice-based-email-visually-challenged/
+
+mail== "voicemail0702gmail.com"
+pwd= "preetha123*"
